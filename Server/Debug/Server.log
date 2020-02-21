@@ -1,1 +1,13 @@
-﻿  Server.vcxproj -> C:\Users\SwKim\Desktop\ing\Coding\FastCampus\컴공 올인원\01 소프트웨어 베이직\CPP-Server-And-CSharp.Net-Client-Network-Gomoku-Game\Debug\Server.exe
+﻿  Client.cpp
+  main.cpp
+C:\Users\SwKim\Desktop\ing\Coding\FastCampus\컴공 올인원\01 소프트웨어 베이직\03-2 C-오목 프로젝트\Gomoku Game Project\Server\Server.h(29,2): warning C4091: 'static ': 변수를 선언하지 않으면 'Server' 왼쪽은 무시됩니다.
+  Server.cpp
+C:\Users\SwKim\Desktop\ing\Coding\FastCampus\컴공 올인원\01 소프트웨어 베이직\03-2 C-오목 프로젝트\Gomoku Game Project\Server\Server.h(29,2): warning C4091: 'static ': 변수를 선언하지 않으면 'Server' 왼쪽은 무시됩니다.
+C:\Users\SwKim\Desktop\ing\Coding\FastCampus\컴공 올인원\01 소프트웨어 베이직\03-2 C-오목 프로젝트\Gomoku Game Project\Server\Server.cpp(27,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\SwKim\Desktop\ing\Coding\FastCampus\컴공 올인원\01 소프트웨어 베이직\03-2 C-오목 프로젝트\Gomoku Game Project\Server\Server.cpp(44,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\SwKim\Desktop\ing\Coding\FastCampus\컴공 올인원\01 소프트웨어 베이직\03-2 C-오목 프로젝트\Gomoku Game Project\Server\Server.cpp(54,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\SwKim\Desktop\ing\Coding\FastCampus\컴공 올인원\01 소프트웨어 베이직\03-2 C-오목 프로젝트\Gomoku Game Project\Server\Server.cpp(65,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\SwKim\Desktop\ing\Coding\FastCampus\컴공 올인원\01 소프트웨어 베이직\03-2 C-오목 프로젝트\Gomoku Game Project\Server\Server.cpp(148,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Util.cpp
+  코드를 생성하고 있습니다...
+  Server.vcxproj -> C:\Users\SwKim\Desktop\ing\Coding\FastCampus\컴공 올인원\01 소프트웨어 베이직\03-2 C-오목 프로젝트\Gomoku Game Project\Debug\Server.exe
