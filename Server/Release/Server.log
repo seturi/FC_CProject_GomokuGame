@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\SwKim\Desktop\ing\Coding\FastCampus\컴공 올인원\01 소프트웨어 베이직\CPP-Server-And-CSharp.Net-Client-Network-Gomoku-Game\Server\main.cpp(55,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\SwKim\Desktop\ing\Coding\FastCampus\컴공 올인원\01 소프트웨어 베이직\CPP-Server-And-CSharp.Net-Client-Network-Gomoku-Game\Server\main.cpp(66,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\SwKim\Desktop\ing\Coding\FastCampus\컴공 올인원\01 소프트웨어 베이직\CPP-Server-And-CSharp.Net-Client-Network-Gomoku-Game\Server\main.cpp(83,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\SwKim\Desktop\ing\Coding\FastCampus\컴공 올인원\01 소프트웨어 베이직\CPP-Server-And-CSharp.Net-Client-Network-Gomoku-Game\Server\main.cpp(94,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\SwKim\Desktop\ing\Coding\FastCampus\컴공 올인원\01 소프트웨어 베이직\CPP-Server-And-CSharp.Net-Client-Network-Gomoku-Game\Server\main.cpp(115,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\SwKim\Desktop\ing\Coding\FastCampus\컴공 올인원\01 소프트웨어 베이직\CPP-Server-And-CSharp.Net-Client-Network-Gomoku-Game\Server\main.cpp(166,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 295 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Server.vcxproj -> C:\Users\SwKim\Desktop\ing\Coding\FastCampus\컴공 올인원\01 소프트웨어 베이직\CPP-Server-And-CSharp.Net-Client-Network-Gomoku-Game\Release\Server.exe
